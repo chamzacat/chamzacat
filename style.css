@@ -1,0 +1,10 @@
+body {
+	background-color: pink;
+font-family: 'Poiret One', cursive;	
+}
+
+img{
+	display: block;
+	height:350px; 
+	width:auto;
+}
